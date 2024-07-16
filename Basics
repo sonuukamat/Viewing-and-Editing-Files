@@ -1,0 +1,4 @@
+   - `cat <file>`: Concatenate and display file content.
+   - `less <file>`: View file content one page at a time.
+   - `nano <file>`: Edit files using the nano editor.
+   - `vim <file>`: Edit files using the vim editor.
